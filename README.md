@@ -1,1 +1,1 @@
-print("follow {teammdrr} on Github")
+print("follow : teammdrr on Github")
